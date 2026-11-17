@@ -372,6 +372,10 @@ hermes skills install mutonby/openshorts/skills/openshorts
 openclaw skills install @mutonby/openshorts
 ```
 
+`skills/supoclip/` is the same kind of skill for
+[SupoClip](https://github.com/FujiwaraChoki/supoclip) (its MCP server or REST
+API, with an `sk_...` key): `cp -r skills/supoclip ~/.claude/skills/`.
+
 ### n8n
 
 An importable workflow (video URL in, published-ready clips out, no polling)

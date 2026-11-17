@@ -1,0 +1,14 @@
+{
+  "name": "supoclip",
+  "version": "1.0.0",
+  "description": "Turn long videos into vertical subtitled clips, series, topic clips, recaps and trailers with SupoClip via its MCP server or REST API.",
+  "author": {
+    "name": "OpenShorts",
+    "url": "https://www.openshorts.app/"
+  },
+  "homepage": "https://github.com/mutonby/openshorts/tree/main/skills/supoclip",
+  "repository": "https://github.com/mutonby/openshorts",
+  "license": "MIT",
+  "keywords": ["video", "clips", "shorts", "supoclip", "subtitles", "mcp"],
+  "skills": ["."]
+}
